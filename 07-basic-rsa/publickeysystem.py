@@ -2,6 +2,8 @@ from os import urandom
 from gmpy2 import mpz
 from gmpy2 import invert, t_mod, mul, powmod
 
+
+
 TOTAL_LENGTH = 128
 REQUIRED_RANDOM_BYTES = 8
 

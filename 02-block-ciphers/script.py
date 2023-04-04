@@ -5,7 +5,7 @@ from ctr import encrypt_ctr, decrypt_ctr
 if __name__ == "__main__":
 
     print()
-    print("------------- ")
+    print("-------------- ")
     print("BLOCK CIPHER MODE OF OPERATION ")
     print("------------- ")
 

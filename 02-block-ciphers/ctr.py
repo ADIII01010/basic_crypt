@@ -6,6 +6,7 @@ from math import ceil
 from helpers import xor, AES_ENCRYPT
 
 
+
 def do_counter_mode(k, iv, x, blocksize, ivsize):
 
     aes = AES_ENCRYPT(k)

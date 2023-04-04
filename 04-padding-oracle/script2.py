@@ -3,9 +3,9 @@ import textwrap
 
 if __name__ == "__main__":
 
-    print("------------------------------------")
+    print("-------------------------------------")
     print("PADDING ORACLE ATTACK!")
-    print("------------------------------------")
+    print("-------------------------------------")
 
     print("\nEnter target server address which you know is vulnerable to this kind of attack. \n")
     print("e.g.")

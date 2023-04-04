@@ -8,6 +8,8 @@ def print_digit(x):
         print("  ", i)
 
 
+
+
 def read_file(path):
     with open(path, 'rb') as f:
         file_size = f.seek(0, 2)
@@ -46,7 +48,7 @@ def run(args):
         start = "Plaintext"
         end = "Ciphertext"
 
-    else: #decrypt
+    else: #decrypt 01
 
         try:
             int(x)

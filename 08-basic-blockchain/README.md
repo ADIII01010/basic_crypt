@@ -15,5 +15,4 @@
   - Completing the Puzzle and Closing the Channel
 
 # References
-- [(Satoshi Nakamoto) Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [(Andreas M. Antonopoulos) Mastering Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)

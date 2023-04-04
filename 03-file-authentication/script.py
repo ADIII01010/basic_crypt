@@ -3,7 +3,7 @@ import argparse
 
 if __name__ == "__main__":
 
-    # -------------------
+    # --------------------
     # PARSE ARGUMENT
     # -------------------
     parser = argparse.ArgumentParser(description="Simple File Authentication System. \

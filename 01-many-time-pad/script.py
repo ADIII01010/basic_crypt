@@ -6,9 +6,9 @@ import textwrap
 
 if __name__ == "__main__":
 
-    # -------------------
+    # ---------------------
     # PARSE ARGUMENT
-    # -------------------
+    # ---------------------
     parser = argparse.ArgumentParser(description="Decrypts a target ciphertext, \
         given a bunch on intercepted ciphertexts encrypted with the same unknown key. \
         Ciphertexts may or may not have random errors.")

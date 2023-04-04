@@ -7,6 +7,7 @@ HASHSIZE = 32
 
 class StreamReceiver:
 
+
     def __init__(self, path, h, buffersize=1024):
         self.stream = path
         self.buffersize = buffersize

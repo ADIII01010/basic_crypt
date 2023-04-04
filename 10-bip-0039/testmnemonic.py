@@ -18,4 +18,7 @@ def test_cases(filepath = 'vectors.json'):
         s = mnemonic_string.split(" ")
         test_list.append((r, s))
 
+
+
     return test_list
+    

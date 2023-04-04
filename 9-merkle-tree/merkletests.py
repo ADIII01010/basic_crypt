@@ -49,6 +49,8 @@ def test3():
     assert merkle_hashes[2][3] == None
 
 
+
+
 def test4():
     m = MerkleTree(data[0:4])
     merkle_hashes = m.get_hashes()

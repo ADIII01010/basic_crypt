@@ -16,7 +16,7 @@
 # bitwise operations are not defined on byte sequences—regardless
 # of how much sense it would make to have them on a sequence of bytes.
 
-# Entropy (bits)  Checksum (bits)     Mnemonic length (words)
+# Entropy (bits)  Checksum (bits)     Mnemonic length (words) 01
 # 128     4   12
 # 160     5   15
 # 192     6   18

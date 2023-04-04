@@ -9,6 +9,8 @@ class Node:
         self.count = c
 
 
+
+
 class MerkleTree:
     def __init__(self, data):
         # data is a list of bytes

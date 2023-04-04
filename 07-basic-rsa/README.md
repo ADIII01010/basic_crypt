@@ -186,7 +186,7 @@ the following holds.
 D(sk, E(pk, m)) = m
 ```
 
-### Secure Trapdoor functions
+### Secure Trapdoor functions 01
 -  A trapdoor from set `X` to `Y` is a tripple of efficient algorithms (`G`, `F`, `F_inverse`) such that
 - `G()` is a randomized algorithm that outputs a key pair (`pk`, `sk`)
 - `F(pk, x)` defines a function `Y` to `X`

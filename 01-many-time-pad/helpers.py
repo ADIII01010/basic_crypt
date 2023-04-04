@@ -30,7 +30,8 @@ def parse_text(filepath):
     return texts
 
 
-# Expects a list of strings representing
+
+# Expects a list of strings representing 01
 # byte in hex representation
 # Returns the corresponding list the actual bytes
 # represented by each string

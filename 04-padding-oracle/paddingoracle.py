@@ -2,6 +2,7 @@ import urllib3 as ul
 
 BLOCKSIZE = 16
 
+
 AZ = [i for i in range(ord('A'), ord('Z') + 1)]
 space = [ord(' ')]
 az = [i for i in range(ord('a'),ord('z') +1)]

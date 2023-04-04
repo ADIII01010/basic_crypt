@@ -27,7 +27,8 @@ def decode(cipher, key):
     return r
 
 
-# Expects four series of bytes representing
+
+# Expects four series of bytes representing 01
 # a partially built key and three ciphers
 # Mutates the key in place given info from ciphers
 def build_key(key, c1, c2, c3):

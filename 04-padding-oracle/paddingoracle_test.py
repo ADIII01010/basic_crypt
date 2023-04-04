@@ -1,6 +1,8 @@
 import pytest
 from paddingoracle import PaddingOracle, decode
 
+
+
 @pytest.fixture
 def set1():
     t = 'http://crypto-class.appspot.com/po?er='

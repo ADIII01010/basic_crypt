@@ -1,6 +1,7 @@
 from ctr import encrypt_ctr, decrypt_ctr
 import pytest
 
+
 @pytest.fixture
 def key():
     return "36f18357be4dbd77f050515c73fcf9f2"

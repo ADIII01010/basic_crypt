@@ -27,6 +27,7 @@ optional arguments:
   -v              Display more information
 ```
 
+
 ### Decryption
 ```
 $ python script.py ./data.txt --i 20

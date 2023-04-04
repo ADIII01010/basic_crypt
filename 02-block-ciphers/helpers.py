@@ -2,7 +2,8 @@ from cryptography.hazmat.primitives.ciphers.algorithms import AES
 from cryptography.hazmat.primitives.ciphers import modes, Cipher
 from cryptography.hazmat.backends import default_backend
 
-
+ 
+ 
 def xor(x, y):
     # assert len(x) == len(y)
     a = int.from_bytes(x, "big")

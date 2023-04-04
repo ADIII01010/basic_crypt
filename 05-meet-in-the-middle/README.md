@@ -5,7 +5,7 @@
 square-root of the operations of the simplest brute force attack.
 
 # Task
-- Given prime `p`
+- Given prime `p` ----01
 - then `Zp* = {1, 2, 3, ..., p-1}`
 - let `g` and `h` be elements in `Zp*` such that
 - such that `h mod p = g^x mod p` where ` 0 < x < 2^40`
