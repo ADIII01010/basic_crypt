@@ -1,3 +1,5 @@
+##
+ALL THE THINGS LEARNT IN STANFORD CRYPTOGRAPHY-1 COURSE 
 # About
 - Python scripts that illustrate basic cryptography concepts based on Coursera Standford Cryptography I course and more
 - Each has tests, notes and detailed explanations in the hopes that you can clearly understand what's happening
